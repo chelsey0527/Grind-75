@@ -24,18 +24,25 @@ Time Complexity: ![O(n^2)](<https://latex.codecogs.com/svg.image?\inline&space;O
 
 Explanation: Simply iterate the array and find the target value among the array in each iteration.
 
-<!-- ### [Improved Solution](/Array/1-TwoSum/improvedSolution.py): Hash Table
+### [Improved Solution](/Array/1-TwoSum/betterSolution.js): Map
 
-```python
-memo = {}
-for i, j in enumerate(nums):
-    number_to_find = target - j
-    try:
-        return [memo[j], i] # Find indices of the two numbers!
-    except KeyError:
-        memo[number_to_find] = i
+```javascript
+var twoSum = function(nums, target) {
+  let map = new Map(); // use map to store result
+  
+  for (let i = 0; i < nums.length; i++) {
+      let diff = target - nums[i];
+      
+      // check if previous value contains diff
+      if (map.has(diff)) {
+          return [i, map.get(diff)];
+      }
+      
+      // if not diff, store the value.
+      map.set(nums[i], i);
+  }
+};
 ```
 
 Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
 
-Explanation: Instead of searching the whole array blindlessly in each iteration, using a hash table can determine whether this element is the target value in ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>) time. -->
