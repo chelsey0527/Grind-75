@@ -2,7 +2,7 @@
 
 Problem can be found in [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)!
 
-### [Solution 1](/Array/121-BestTimetoBuyandSellStock/solutionTP.py): Two Pointer
+### [Solution 1](/Array/121-BestTimetoBuyandSellStock/solutionTP.js): Two Pointer
 
 ```javascript
 const maxProfit = (prices) => {
