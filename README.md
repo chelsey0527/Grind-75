@@ -21,8 +21,8 @@
 
 ### Array
 
--   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution]
--   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution]
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
+-   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.mdå)
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution]
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution]
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution]
