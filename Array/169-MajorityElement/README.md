@@ -20,22 +20,32 @@ var majorityElement = function(nums) {
 };
 ```
 
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
+Time Complexity: ![O(nlogn)](<https://latex.codecogs.com/svg.image?\inline&space;O(nlogn)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
 
-<!-- ### [solution 2 ](/Array/217-ContainsDuplicate/solutionSort.js): Sort
+### [solution 2 (better) ](/Array/217-ContainsDuplicate/solutionBMVAlgo.js): Boyer-Moore Voting Algorithm
 
 ```javascript
-var containsDuplicate = function(nums) {
-    nums.sort((a, b) => a - b); // sort the elements of the array in ascending order.
+var majorityElement = function(nums) {
+  let count = 0;
+  let candidate = null;
 
-    for (let i = 1; i < nums.length; i++) {
-        if (nums[i] === nums[i - 1]) {
-            return true; // if finding any duplicate, return true
-        }
+  for (let num of nums) {
+    if (count === 0) {
+      candidate = num; // Update the candidate when number is zero
     }
 
-    return false;
+    if (num === candidate) {
+      count++;
+    } else {
+      count--;
+    }
+  }
+
+  return candidate; // After the iteration, the candidate will hold the majority element. 
 };
+
 ```
 
-Time Complexity: ![O(nlogn)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>) -->
+Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
+
+The space complexity of this improved code remains O(1) since we only use a constant amount of additional memory to store the count and candidate variables.
