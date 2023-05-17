@@ -22,7 +22,7 @@ var majorityElement = function(nums) {
 
 Time Complexity: ![O(nlogn)](<https://latex.codecogs.com/svg.image?\inline&space;O(nlogn)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
 
-### [solution 2 (better) ](/Array/217-ContainsDuplicate/solutionBMVAlgo.js): Boyer-Moore Voting Algorithm
+### [solution 2 (better) ](/Array/169-ContainsDuplicate/solutionBMVAlgo.js): Boyer-Moore Voting Algorithm
 
 ```javascript
 var majorityElement = function(nums) {
