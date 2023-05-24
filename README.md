@@ -26,7 +26,7 @@
 -   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
 -   [x] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
 -   [x] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array//57-InsertInterval/README.md)
--   [ ] [3Sum](https://leetcode.com/problems/3sum/): [Solution]
+-   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
 -   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution]
 -   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution]
 -   [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution]
