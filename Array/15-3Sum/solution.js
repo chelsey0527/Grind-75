@@ -8,13 +8,16 @@ var threeSum = function(nums) {
           continue;
       }
 
+      // Left pointer represents the next number
       let left = i + 1;
+      // Right pointer represents the last number
       let right = nums.length - 1;
 
       while (left < right) {
           let sum = nums[i] + nums[left] + nums[right];
 
           if (sum === 0) {
+              // Push the array into the answer array
               ans.push([nums[i], nums[left], nums[right]]);
 
               // Skip duplicates for the second element
@@ -29,8 +32,10 @@ var threeSum = function(nums) {
 
               left++;
               right--;
+          // If its too small, move left forward 
           } else if (sum < 0) {
               left++;
+          // If its too large, move right back
           } else {
               right--;
           }
