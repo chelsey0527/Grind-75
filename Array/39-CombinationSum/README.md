@@ -41,6 +41,5 @@ var backtrack = function (candidates, target, current, results) {
 ```
 
 Time Complexity: ![O(n^2)](<https://latex.codecogs.com/svg.image?\inline&space;O(n^2)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
-This does not meet the requirement "Time Complexity must not exceed O(n)".
 
 
