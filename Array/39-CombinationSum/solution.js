@@ -36,3 +36,137 @@ var backtrack = function (candidates, target, current, results) {
     }
 }
 
+
+// This output will be helpful for understanding
+/**
+push:  2
+current:  [ 2 ]  rm-cand:  5  i:  0
+push:  2
+current:  [ 2, 2 ]  rm-cand:  3  i:  0
+push:  2
+current:  [ 2, 2, 2 ]  rm-cand:  1  i:  0
+push:  2
+current:  [ 2, 2, 2, 2 ]  rm-cand:  -1  i:  0
+rm < 0
+pop:  [ 2, 2, 2, 2 ]
+
+push:  3
+current:  [ 2, 2, 2, 3 ]  rm-cand:  -2  i:  1
+rm < 0
+pop:  [ 2, 2, 2, 3 ]
+
+push:  6
+current:  [ 2, 2, 2, 6 ]  rm-cand:  -5  i:  2
+rm < 0
+pop:  [ 2, 2, 2, 6 ]
+
+push:  7
+current:  [ 2, 2, 2, 7 ]  rm-cand:  -6  i:  3
+rm < 0
+pop:  [ 2, 2, 2, 7 ]
+
+pop:  [ 2, 2, 2 ]
+
+push:  3
+current:  [ 2, 2, 3 ]  rm-cand:  0  i:  1
+rm == 0
+push into result;
+pop:  [ 2, 2, 3 ]
+
+push:  6
+current:  [ 2, 2, 6 ]  rm-cand:  -3  i:  2
+rm < 0
+pop:  [ 2, 2, 6 ]
+
+push:  7
+current:  [ 2, 2, 7 ]  rm-cand:  -4  i:  3
+rm < 0
+pop:  [ 2, 2, 7 ]
+
+pop:  [ 2, 2 ]
+
+push:  3
+current:  [ 2, 3 ]  rm-cand:  2  i:  1
+push:  3
+current:  [ 2, 3, 3 ]  rm-cand:  -1  i:  1
+rm < 0
+pop:  [ 2, 3, 3 ]
+
+push:  6
+current:  [ 2, 3, 6 ]  rm-cand:  -4  i:  2
+rm < 0
+pop:  [ 2, 3, 6 ]
+
+push:  7
+current:  [ 2, 3, 7 ]  rm-cand:  -5  i:  3
+rm < 0
+pop:  [ 2, 3, 7 ]
+
+pop:  [ 2, 3 ]
+
+push:  6
+current:  [ 2, 6 ]  rm-cand:  -1  i:  2
+rm < 0
+pop:  [ 2, 6 ]
+
+push:  7
+current:  [ 2, 7 ]  rm-cand:  -2  i:  3
+rm < 0
+pop:  [ 2, 7 ]
+
+pop:  [ 2 ]
+
+push:  3
+current:  [ 3 ]  rm-cand:  4  i:  1
+push:  3
+current:  [ 3, 3 ]  rm-cand:  1  i:  1
+push:  3
+current:  [ 3, 3, 3 ]  rm-cand:  -2  i:  1
+rm < 0
+pop:  [ 3, 3, 3 ]
+
+push:  6
+current:  [ 3, 3, 6 ]  rm-cand:  -5  i:  2
+rm < 0
+pop:  [ 3, 3, 6 ]
+
+push:  7
+current:  [ 3, 3, 7 ]  rm-cand:  -6  i:  3
+rm < 0
+pop:  [ 3, 3, 7 ]
+
+pop:  [ 3, 3 ]
+
+push:  6
+current:  [ 3, 6 ]  rm-cand:  -2  i:  2
+rm < 0
+pop:  [ 3, 6 ]
+
+push:  7
+current:  [ 3, 7 ]  rm-cand:  -3  i:  3
+rm < 0
+pop:  [ 3, 7 ]
+
+pop:  [ 3 ]
+
+push:  6
+current:  [ 6 ]  rm-cand:  1  i:  2
+push:  6
+current:  [ 6, 6 ]  rm-cand:  -5  i:  2
+rm < 0
+pop:  [ 6, 6 ]
+
+push:  7
+current:  [ 6, 7 ]  rm-cand:  -6  i:  3
+rm < 0
+pop:  [ 6, 7 ]
+
+pop:  [ 6 ]
+
+push:  7
+current:  [ 7 ]  rm-cand:  0  i:  3
+rm == 0
+push into result;
+pop:  [ 7 ]
+
+ */
