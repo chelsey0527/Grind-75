@@ -1,5 +1,5 @@
 # Grind-75
-> This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Java Script. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
+> This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
 ##### Problem Solved: / 75
 
@@ -30,7 +30,7 @@
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
 -   [x] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/README.md)
 -   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution]
--   [ ] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution]
+-   [x] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution]
 -   [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution]
 
 ---
