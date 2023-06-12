@@ -29,8 +29,8 @@
 -   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
 -   [x] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/README.md)
--   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution]
--   [x] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution]
+-   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/README.md)
+-   [x] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/)
 -   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution]
 
 ---
