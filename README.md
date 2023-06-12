@@ -22,14 +22,14 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Array
 
--   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
--   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
--   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
--   [x] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
--   [x] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array//57-InsertInterval/README.md)
--   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
--   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
--   [x] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/README.md)
+-   [ ] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
+-   [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
+-   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
+-   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
+-   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array//57-InsertInterval/README.md)
+-   [ ] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
+-   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
+-   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/README.md)
 -   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/README.md)
 -   [x] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/)
 -   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution]
