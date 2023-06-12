@@ -37,7 +37,7 @@
 
 ### Stack
 
--   [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution]
+-   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution]
 -   [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution]
 -   [ ] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution]
 -   [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution]
