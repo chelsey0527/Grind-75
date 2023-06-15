@@ -38,13 +38,13 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Stack
 
--   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/README.md)
--   [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueUsingStacks/README.md)
--   [x] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/155-MinStack/README.md)
--   [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/README.md)
--   [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution]
--   [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution]
--   [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution]
+-   [x] [[Easy] Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/README.md)
+-   [x] [[Easy] Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueUsingStacks/README.md)
+-   [x] [[Medium] Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/155-MinStack/README.md)
+-   [x] [[Medium] Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/README.md)
+-   [ ] [[Hard] Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution]
+-   [ ] [[Hard] Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution]
+-   [ ] [[Hard] Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution]
 
 ---
 
