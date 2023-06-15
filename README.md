@@ -40,7 +40,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/README.md)
 -   [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueUsingStacks/README.md)
--   [ ] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution]
+-   [x] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution](/Stack/155-MinStack/README.md)
 -   [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution]
 -   [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution]
 -   [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution]

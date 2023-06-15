@@ -15,7 +15,6 @@ class MyQueue(object):
         
     def pop(self):
         for i in range(len(self.q)):
-            # self.push(self.q.popleft())
             return self.q.popleft()
 
     def peek(self):
