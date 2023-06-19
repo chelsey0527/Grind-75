@@ -44,7 +44,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Medium] Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/README.md)
 -   [x] [[Hard] Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution](/Stack/42-TrappingRainWater/README.md)
 -   [x] [[Hard] Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution]
--   [ ] [[Hard] Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution]
+-   [x] [*[Hard] Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution]
 
 ---
 
