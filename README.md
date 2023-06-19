@@ -5,7 +5,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 ##### Problem Solved: / 75
 
 -   [x] [Array](#array) (11)
--   [ ] [Stack](#stack) (7)
+-   [x] [Stack](#stack) (7)
 -   [ ] [Linked-List](#linked-list) (5)
 -   [ ] [String](#string) (8)
 -   [ ] [Binary Tree](#binary-tree) (9)
@@ -50,7 +50,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Linked List
 
--   [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution]
+-   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/LinkedList/21-MergeTwoSortedList/README.md)
 -   [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution]
 -   [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution]
 -   [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [Solution]
