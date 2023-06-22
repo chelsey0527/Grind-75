@@ -50,9 +50,9 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Linked List
 
--   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/LinkedList/21-MergeTwoSortedList/README.md)
--   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/LinkedList/141-LinkedListCycle/README.md)
--   [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution]
+-   [x] [[Easy] Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/LinkedList/21-MergeTwoSortedList/README.md)
+-   [x] [[Easy] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/LinkedList/141-LinkedListCycle/README.md)
+-   [x] [[Easy] Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution](/LinkedList/206-ReverseLinkedList/)
 -   [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [Solution]
 -   [ ] [LRU Cache](https://leetcode.com/problems/reorder-list): [Solution]
 
