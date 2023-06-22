@@ -43,15 +43,15 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Medium] Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/155-MinStack/README.md)
 -   [x] [[Medium] Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/README.md)
 -   [x] [[Hard] Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution](/Stack/42-TrappingRainWater/README.md)
--   [x] [[Hard] Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution]
--   [x] [*[Hard] Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution]
+-   [x] [[Hard] Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution](/Stack/224-BasicCalculator/README.md)
+-   [x] [*[Hard] Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution](/Stack/84-LargestRectangleInHistogram/README.md)
 
 ---
 
 ### Linked List
 
 -   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/LinkedList/21-MergeTwoSortedList/README.md)
--   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution]
+-   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/LinkedList/141-LinkedListCycle/README.md)
 -   [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution]
 -   [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [Solution]
 -   [ ] [LRU Cache](https://leetcode.com/problems/reorder-list): [Solution]
