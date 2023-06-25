@@ -6,7 +6,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [Array](#array) (11)
 -   [x] [Stack](#stack) (7)
--   [ ] [Linked-List](#linked-list) (5)
+-   [x] [Linked-List](#linked-list) (5)
 -   [ ] [String](#string) (8)
 -   [ ] [Binary Tree](#binary-tree) (9)
 -   [ ] [Binary Search](#binary-search) (5)
@@ -60,7 +60,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### String
 
--   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome): [Solution]
+-   [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome): [Solution](/String/125-ValidPalindrome/README.md)
 -   [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram): [Solution]
 -   [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome): [Solution]
 -   [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters): [Solution]
