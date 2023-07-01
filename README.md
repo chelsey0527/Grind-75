@@ -63,7 +63,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Easy] Valid Palindrome](https://leetcode.com/problems/valid-palindrome): [Solution](/String/125-ValidPalindrome/README.md)
 -   [x] [[Easy] Valid Anagram](https://leetcode.com/problems/valid-anagram): [Solution](/String/242_ValidAnagram/README.md)
 -   [x] [[Easy] Longest Palindrome](https://leetcode.com/problems/longest-palindrome): [Solution](/String/409-longestPalindrome/README.md)
--   [ ] [[Medium] Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters): [Solution]
+-   [x] [*[Medium] Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters): [Solution](/String/3-LongestSubstringWithoutRepeatingChars/README.md)
 -   [ ] [[Medium] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi): [Solution]
 -   [ ] [[Medium] Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring): [Solution]
 -   [ ] [[Medium] Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string): [Solution]
