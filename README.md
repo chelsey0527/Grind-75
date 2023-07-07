@@ -67,7 +67,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Medium] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi): [Solution](/String/8-StringToInt/README.md)
 -   [x] [[Medium] Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring): [Solution](/String/5-LongestPalindromicSubstring/README.md)
 -   [x] [[Medium] Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string): [Solution](/String/438-FindAlllAnagramsInAString/README.md)
--   [ ] [[Hard] Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring): [Solution]
+-   [x] [[Hard] Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring): [Solution](/String/76-MinimumWindowSubstring/README.md)
 
 ---
 
