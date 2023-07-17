@@ -75,7 +75,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree): [Solution](/BinaryTree/226-InvertBinaryTree/README.md)
 -   [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree): [Solution](/BinaryTree/110-BalancedBinaryTree/README.md)
--   [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree): [Solution]
+-   [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree): [Solution](/BinaryTree/543-DiameterofBinaryTree/README.md)
 -   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree): [Solution]
 -   [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal): [Solution]
 -   [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree): [Solution]
