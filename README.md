@@ -73,15 +73,15 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Binary Tree
 
--   [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree): [Solution](/BinaryTree/226-InvertBinaryTree/README.md)
--   [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree): [Solution](/BinaryTree/110-BalancedBinaryTree/README.md)
--   [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree): [Solution](/BinaryTree/543-DiameterofBinaryTree/README.md)
--   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree): [Solution]
--   [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal): [Solution]
--   [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree): [Solution]
--   [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view): [Solution]
--   [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal): [Solution]
--   [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree): [Solution]
+-   [x] [[Easy] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree): [Solution](/BinaryTree/226-InvertBinaryTree/README.md)
+-   [x] [[Easy] Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree): [Solution](/BinaryTree/110-BalancedBinaryTree/README.md)
+-   [x] [[Easy] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree): [Solution](/BinaryTree/543-DiameterofBinaryTree/README.md)
+-   [x] [[Easy] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree): [Solution](/BinaryTree/104-MaxDepthOfBinaryTree/README.md)
+-   [ ] [[Medium] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal): [Solution]
+-   [ ] [[Medium] Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree): [Solution]
+-   [ ] [[Medium] Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view): [Solution]
+-   [ ] [[Medium] Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal): [Solution]
+-   [ ] [[Hard] Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree): [Solution]
 ---
 
 ### Binary Search
