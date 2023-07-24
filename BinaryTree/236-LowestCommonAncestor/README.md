@@ -2,7 +2,7 @@
 
 Problem can be found in [here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)!
 
-### [solution](/BinaryTree/236-LowesrCommonAncestor/solution.py)
+### [solution](/BinaryTree/236-LowestCommonAncestor/solution.py)
 
 ```python
 class Solution:
