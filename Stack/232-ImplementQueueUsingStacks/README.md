@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Implement Queue Using Stacks
 
 Problem can be found in [here](https://leetcode.com/problems/implement-queue-using-stacks/)!
 
