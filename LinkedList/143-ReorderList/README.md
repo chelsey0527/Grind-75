@@ -1,6 +1,6 @@
-# Contains Duplicate
+# Reorder LinkedList
 
-Problem can be found in [here](https://leetcode.com/problems/reverse-linked-list/)!
+Problem can be found in [here]([https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reorder-list/))!
 
 ### [solution](/LinkedList/206-ReverseLinkedList/)
 
