@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Linked List Cycle
 
 Problem can be found in [here](https://leetcode.com/problems/linked-list-cycle/)!
 
