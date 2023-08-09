@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Longest Palindrome
 
 Problem can be found in [here](https://leetcode.com/problems/longest-palindrome/)!
 
