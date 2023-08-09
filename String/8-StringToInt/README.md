@@ -1,4 +1,4 @@
-# Contains Duplicate
+# String to Int
 
 Problem can be found in [here](https://leetcode.com/problems/string-to-integer-atoi/)!
 
