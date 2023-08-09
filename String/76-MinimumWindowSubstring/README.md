@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Minimum Window Substring
 
 Problem can be found in [here](https://leetcode.com/problems/minimum-window-substring/)!
 
