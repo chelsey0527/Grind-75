@@ -1,4 +1,5 @@
-# Contains Duplicate
+# Longest Substring Without Repeating Chars
+
 
 Problem can be found in [here](https://leetcode.com/problems/longest-substring-without-repeating-characters/)!
 
