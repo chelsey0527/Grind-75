@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Valid Palindrome
 
 Problem can be found in [here](https://leetcode.com/problems/valid-palindrome/)!
 
