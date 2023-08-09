@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Longest Palindromic Substring
 
 Problem can be found in [here](https://leetcode.com/problems/longest-palindromic-substring/)!
 
