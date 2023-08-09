@@ -1,4 +1,5 @@
-# Contains Duplicate
+# Find Alll Anagrams In A String
+
 
 Problem can be found in [here](https://leetcode.com/problems/find-all-anagrams-in-a-string/)!
 
