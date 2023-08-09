@@ -6,8 +6,9 @@ Problem can be found in [here](https://leetcode.com/problems/longest-substring-w
 ### [solution](/String/3-LongestSubstringWithoutRepeatingChars/solution.py): sliding window
 
 ```python
-class Solution(object):
-    def lengthOfLongestSubstring(self, s):
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+      
         seen = {}
         l = 0
         output = 0
