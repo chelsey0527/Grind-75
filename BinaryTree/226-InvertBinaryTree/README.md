@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Invert Binary Tree
 
 Problem can be found in [here](https://leetcode.com/problems/invert-binary-tree/)!
 
