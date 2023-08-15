@@ -13,7 +13,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [ ] [Graph](#graph) (10)
 -   [ ] [Dynamic Programming](#dynamic-programming) (5)
 -   [ ] [Binary Search Tree](#binary-search-tree) (3)
--   [ ] [Hash Table](#hash-table) (1)
+-   [x] [Hash Table](#hash-table) (1)
 -   [ ] [Binary](#binary) (1)
 -   [ ] [Heap](#heap) (4)
 -   [ ] [Trie](#trie) (2)
@@ -81,7 +81,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Medium] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal): [Solution](/BinaryTree/102-BinaryTreeLevelOrderTraversal/README.md)
 -   [x] [[Medium] Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree): [Solution](/BinaryTree/236-LowestCommonAncestor/README.md)
 -   [x] [[Medium] Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view): [Solution](/BinaryTree/199-BinaryTreeRightSideView/README.md)
--   [ ] [[Medium] Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal): [Solution]
+-   [x] [[Medium] Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal): [Solution](/BinaryTree/105-ConstructBTfromPreandInorderTraversal/README.md)
 -   [ ] [[Hard] Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree): [Solution]
 ---
 
@@ -129,7 +129,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Hash Table
 
--   [ ] [Ransom Note](https://leetcode.com/problems/ransom-note): [Solution]
+-   [x] [Ransom Note](https://leetcode.com/problems/ransom-note): [Solution](/Hash%20Table/383-RansomNote/README.md)
 
 ---
 
