@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Evaluate Reverse Polish Notation
 
 Problem can be found in [here](https://leetcode.com/problems/evaluate-reverse-polish-notation/)!
 

@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Merge two sorted list
 
 Problem can be found in [here](https://leetcode.com/problems/merge-two-sorted-lists/)!
 

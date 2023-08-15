@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Min stack
 
 Problem can be found in [here](https://leetcode.com/problems/min-stack/)!
 

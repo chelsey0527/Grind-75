@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Max Depth of Binary Tree
 
 Problem can be found in [here](https://leetcode.com/problems/maximum-depth-of-binary-tree/)!
 

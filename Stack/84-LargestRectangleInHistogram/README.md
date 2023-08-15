@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Largest Rectangle in histogram
 
 Problem can be found in [here](https://leetcode.com/problems/largest-rectangle-in-histogram/)!
 

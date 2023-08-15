@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Remove nth Node from end of list
 
 Problem can be found in [here](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)!
 

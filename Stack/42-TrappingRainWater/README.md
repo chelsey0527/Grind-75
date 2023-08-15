@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Trapping Rain Water
 
 Problem can be found in [here](https://leetcode.com/problems/trapping-rain-water/)!
 

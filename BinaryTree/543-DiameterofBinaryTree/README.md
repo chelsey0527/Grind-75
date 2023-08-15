@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Diameter of Binary Tree
 
 Problem can be found in [here](https://leetcode.com/problems/diameter-of-binary-tree/)!
 

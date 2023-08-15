@@ -164,27 +164,3 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 ### Matrix
 
 -   [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution]
-
----
-
-### Hacker Rank 1 week prep
-Day 1
--   [ ] 
--   [ ] 
--   [ ] 
--   [ ] 
-Day 2
--   [ ] 
--   [ ] 
--   [ ] 
--   [ ] 
-Day 3
--   [ ] 
--   [ ] 
--   [ ] 
--   [ ] 
-Day 4
--   [x] [Grid Challenge](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D=preparation-kits&playlist_slugs%5B%5D%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D%5B%5D=one-week-day-four): [Solution](/HackerRank-1week/day4/gridChallange/README.md)
--   [ ] 
--   [ ] 
--   [ ] 

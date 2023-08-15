@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Balanced Binary Tree
 
 Problem can be found in [here](https://leetcode.com/problems/balanced-binary-tree/)!
 

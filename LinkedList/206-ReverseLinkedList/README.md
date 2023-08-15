@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Reverse Linked List
 
 Problem can be found in [here](https://leetcode.com/problems/reverse-linked-list/)!
 
