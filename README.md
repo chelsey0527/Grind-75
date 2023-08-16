@@ -87,7 +87,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 ### Binary Search
 
 -   [x] [Binary Search](https://leetcode.com/problems/binary-search): [Solution](/BinarySearch/704-BinarySearch/README.md)
--   [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution]
+-   [x] [First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/BinarySearch/278-FirstBadVersion/README.md)
 -   [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution]
 -   [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store): [Solution]
 -   [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)[Solution]
