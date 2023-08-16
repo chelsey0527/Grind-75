@@ -19,7 +19,6 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [ ] [Trie](#trie) (2)
 -   [ ] [Recursion](#recursion) (3)
 -   [ ] [Matrix](#matrix) (1)
--   [ ] [HackerRank 1-wrrk prep](#hackerRank)
 
 ### Array
 
