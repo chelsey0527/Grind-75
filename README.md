@@ -86,9 +86,9 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Binary Search
 
--   [x] [[Easy] Binary Search](https://leetcode.com/problems/binary-search): [Solution](/BinarySearch/704-BinarySearch/README.md)
--   [x] [[Easy] First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/BinarySearch/278-FirstBadVersion/README.md)
--   [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution]
+-   [x] [[Easy]Binary Search](https://leetcode.com/problems/binary-search): [Solution](/BinarySearch/704-BinarySearch/README.md)
+-   [x] [[Easy]First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/BinarySearch/278-FirstBadVersion/README.md)
+-   [ ] [[Medium]Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution]
 -   [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store): [Solution]
 -   [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)[Solution]
 
@@ -97,7 +97,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 ### Graph
 
 -   [x] [[Easy]Flood Fill](https://leetcode.com/problems/flood-fill): [Solution](/Graph/733-FloodFill/README.md)
--   [ ] [01 Matrix](https://leetcode.com/problems/01-matrix): [Solution]
+-   [ ] [[Medium]01 Matrix](https://leetcode.com/problems/01-matrix): [Solution]
 -   [ ] [Clone Graph](https://leetcode.com/problems/clone-graph): [Solution]
 -   [ ] [Course Schedule](https://leetcode.com/problems/course-schedule): [Solution]
 -   [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution]
