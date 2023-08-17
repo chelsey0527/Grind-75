@@ -22,7 +22,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Array
 
--   [ ] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
 -   [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
@@ -88,7 +88,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Easy]Binary Search](https://leetcode.com/problems/binary-search): [Solution](/BinarySearch/704-BinarySearch/README.md)
 -   [x] [[Easy]First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/BinarySearch/278-FirstBadVersion/README.md)
--   [ ] [[Medium]Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution]
+-   [x] [[Medium]Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution](/BinarySearch/33-SearchInRotatedSortedArray/README.md)
 -   [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store): [Solution]
 -   [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)[Solution]
 
