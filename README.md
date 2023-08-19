@@ -23,7 +23,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 ### Array
 
 -   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
--   [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
+-   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array//57-InsertInterval/README.md)
