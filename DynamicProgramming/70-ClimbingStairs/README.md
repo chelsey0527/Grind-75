@@ -1,7 +1,7 @@
 # Climbing Stairs
 Problem can be found in [here](https://leetcode.com/problems/climbing-stairs/)!
 
-### [Solution](/DynamicProgramming/70-ClimbingStairs/solution.pyy)
+### [Solution](/DynamicProgramming/70-ClimbingStairs/solution.py)
 
 ```python
 class Solution:

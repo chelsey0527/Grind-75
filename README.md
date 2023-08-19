@@ -113,7 +113,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Easy]Climbing Stairs](https://leetcode.com/problems/climbing-stairs): [Solution](/DynamicProgramming/70-ClimbingStairs/README.md)
 -   [x] [[Medium]Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [Solution](/DynamicProgramming/53-MaximumSubarray/README.md)
--   [ ] [Coin Change](https://leetcode.com/problems/coin-change): [Solution]
+-   [x] [*[Medium]Coin Change](https://leetcode.com/problems/coin-change): [Solution](/DynamicProgramming/322-CoinChange/README.md)
 -   [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/maximum-subarray): [Solution]
 -   [ ] [Unique Paths](https://leetcode.com/problems/unique-paths): [Solution]
 
