@@ -4,7 +4,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ##### Problem Solved: / 75
 
--   [x] [Array](#array) (11)
+-   [ ] [Array](#array) (11)
 -   [x] [Stack](#stack) (7)
 -   [x] [Linked-List](#linked-list) (5)
 -   [x] [String](#string) (8)
@@ -134,7 +134,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Binary
 
--   [ ] [Add Binary](https://leetcode.com/problems/add-binary): [Solution]
+-   [ ] [[Easy]Add Binary](https://leetcode.com/problems/add-binary): [Solution]
 
 ---
 
