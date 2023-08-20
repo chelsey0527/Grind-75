@@ -14,7 +14,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [ ] [Dynamic Programming](#dynamic-programming) (5)
 -   [ ] [Binary Search Tree](#binary-search-tree) (3)
 -   [x] [Hash Table](#hash-table) (1)
--   [ ] [Binary](#binary) (1)
+-   [x] [Binary](#binary) (1)
 -   [ ] [Heap](#heap) (4)
 -   [ ] [Trie](#trie) (2)
 -   [ ] [Recursion](#recursion) (3)
@@ -25,7 +25,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
 -   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
 -   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
--   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
+-   [x] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array//57-InsertInterval/README.md)
 -   [ ] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
 -   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
@@ -119,7 +119,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ---
 
-### Binart Search Tree
+### Binary Search Tree
 
 -   [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution]
 -   [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution]
@@ -134,7 +134,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Binary
 
--   [ ] [[Easy]Add Binary](https://leetcode.com/problems/add-binary): [Solution]
+-   [x] [[Easy]Add Binary](https://leetcode.com/problems/add-binary): [Solution](/Binary/67-AddBinary/README.md)
 
 ---
 
