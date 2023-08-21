@@ -2,7 +2,7 @@
 
 Problem can be found in [here](https://leetcode.com/problems/insert-interval/)!
 
-### [solution 1](/Array/57-InsertInterval/solution.py): Linear Scanning
+### [solution 1](/Array/57-InsertInterval/solution.py): Linear Scanning & DP
 
 ```python
 class Solution:

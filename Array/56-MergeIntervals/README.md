@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Merge Intervals
 
 Problem can be found in [here](https://leetcode.com/problems/merge-intervals)!
 

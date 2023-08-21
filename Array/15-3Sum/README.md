@@ -1,4 +1,4 @@
-# Contains Duplicate
+# 3 Sum
 
 Problem can be found in [here](https://leetcode.com/problems/3sum/)!
 
