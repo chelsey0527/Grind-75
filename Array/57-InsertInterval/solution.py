@@ -1,10 +1,3 @@
-# Insert Interval
-
-Problem can be found in [here](https://leetcode.com/problems/insert-interval/)!
-
-### [solution 1](/Array/57-InsertInterval/solution.py): Linear Scanning
-
-```python
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         res = []
@@ -27,6 +20,3 @@ class Solution:
         res.append(newInterval)
             
         return res
-```
-
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
