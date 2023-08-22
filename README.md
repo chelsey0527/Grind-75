@@ -115,7 +115,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Medium]Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [Solution](/DynamicProgramming/53-MaximumSubarray/README.md)
 -   [x] [*[Medium]Coin Change](https://leetcode.com/problems/coin-change): [Solution](/DynamicProgramming/416-PartitionEqualSubsetSum/README.md)
 -   [x] [*[Medium]Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/): [Solution]
--   [ ] [Unique Paths](https://leetcode.com/problems/unique-paths): [Solution]
+-   [x] [[Medium]Unique Paths](https://leetcode.com/problems/unique-paths): [Solution](/DynamicProgramming/62-UniquePaths/README.md)
 
 ---
 

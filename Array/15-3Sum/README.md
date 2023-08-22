@@ -36,4 +36,3 @@ class Solution:
 ```
 
 Time Complexity: ![O(nlogn)](<https://latex.codecogs.com/svg.image?\inline&space;O(nlogn)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
-This does not meet the requirement "Time Complexity must not exceed O(n)".
