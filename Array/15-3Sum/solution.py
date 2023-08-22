@@ -1,10 +1,3 @@
-# 3 Sum
-
-Problem can be found in [here](https://leetcode.com/problems/3sum/)!
-
-### [solution](/Array/15-3Sum/solution.py)
-
-```python
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
 
@@ -33,7 +26,3 @@ class Solution:
 
         return res
             
-```
-
-Time Complexity: ![O(nlogn)](<https://latex.codecogs.com/svg.image?\inline&space;O(nlogn)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
-This does not meet the requirement "Time Complexity must not exceed O(n)".
