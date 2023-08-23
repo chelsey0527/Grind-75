@@ -140,10 +140,12 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Heap
 
--   [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution]
+-   [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution](/Heap/973-KClosestPointstoOrigin/README.md)
 -   [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler): [Solution]
 -   [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/): [Solution]
 -   [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/): [Solution]
+
+---
 
 ### Trie
 
