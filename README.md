@@ -114,7 +114,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Easy]Climbing Stairs](https://leetcode.com/problems/climbing-stairs): [Solution](/DynamicProgramming/70-ClimbingStairs/README.md)
 -   [x] [[Medium]Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [Solution](/DynamicProgramming/53-MaximumSubarray/README.md)
 -   [x] [*[Medium]Coin Change](https://leetcode.com/problems/coin-change): [Solution](/DynamicProgramming/416-PartitionEqualSubsetSum/README.md)
--   [x] [*[Medium]Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/): [Solution]
+-   [x] [*[Medium]Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/): [Solution](/DynamicProgramming/416-PartitionEqualSubsetSum/README.md)
 -   [x] [[Medium]Unique Paths](https://leetcode.com/problems/unique-paths): [Solution](/DynamicProgramming/62-UniquePaths/README.md)
 
 ---
@@ -140,8 +140,8 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Heap
 
--   [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution](/Heap/973-KClosestPointstoOrigin/README.md)
--   [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler): [Solution]
+-   [x] [[Medium]K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution](/Heap/973-KClosestPointstoOrigin/README.md)
+-   [x] [*[Medium]Task Scheduler](https://leetcode.com/problems/task-scheduler): [Solution](/Heap/621-TaskScheduler/README.md)
 -   [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/): [Solution]
 -   [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/): [Solution]
 
