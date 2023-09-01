@@ -4,7 +4,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ##### Problem Solved: / 75
 
--   [ ] [Array](#array) (11)
+-   [x] [Array](#array) (11)
 -   [x] [Stack](#stack) (7)
 -   [x] [Linked-List](#linked-list) (5)
 -   [x] [String](#string) (8)
@@ -24,15 +24,15 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Easy]Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/README.md)
 -   [x] [[Easy]Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/README.md)
--   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
--   [x] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
+-   [x] [[Easy]Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/README.md)
+-   [x] [[Easy]Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/README.md)
 -   [x] [[Medium]Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array//57-InsertInterval/README.md)
--   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
--   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
--   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/README.md)
--   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/README.md)
--   [x] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/)
--   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution]
+-   [x] [[Medium]3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/README.md)
+-   [x] [[Medium]Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/README.md)
+-   [x] [*[Medium]Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/README.md)
+-   [x] [[Medium]Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/README.md)
+-   [x] [[Medium]Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/)
+-   [x] [[Medium]Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution]
 
 ---
 
@@ -121,14 +121,14 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Binary Search Tree
 
--   [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution]
--   [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution]
+-   [x] [[Medium]Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution](/BinarySearchTree/235-LowestCommonAncestor/README.md)
+-   [x] [[Medium]Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution](/BinarySearchTree/98-ValidateBinarySearchTree/README.md)
 -   [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution]
 ---
 
 ### Hash Table
 
--   [x] [Ransom Note](https://leetcode.com/problems/ransom-note): [Solution](/Hash%20Table/383-RansomNote/README.md)
+-   [x] [[Easy]Ransom Note](https://leetcode.com/problems/ransom-note): [Solution](/Hash%20Table/383-RansomNote/README.md)
 
 ---
 
@@ -142,8 +142,8 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Medium]K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution](/Heap/973-KClosestPointstoOrigin/README.md)
 -   [x] [*[Medium]Task Scheduler](https://leetcode.com/problems/task-scheduler): [Solution](/Heap/621-TaskScheduler/README.md)
--   [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/): [Solution]
--   [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/): [Solution]
+-   [ ] [[Hard]Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/): [Solution]
+-   [ ] [[Hard]Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/): [Solution]
 
 ---
 
@@ -156,9 +156,9 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Recursion
 
--   [ ] [Permutations](https://leetcode.com/problems/permutations): [Solution]
--   [ ] [Subsets](https://leetcode.com/problems/subsets): [Solution]
--   [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution]
+-   [ ] [[Medium]Permutations](https://leetcode.com/problems/permutations): [Solution]
+-   [ ] [[Medium]Subsets](https://leetcode.com/problems/subsets): [Solution]
+-   [ ] [[Medium]Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution]
 
 ---
 
