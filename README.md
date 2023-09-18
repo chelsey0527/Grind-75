@@ -157,7 +157,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 ### Recursion
 
 -   [x] [[Medium]Permutations](https://leetcode.com/problems/permutations): [Solution](/Recursion/46-Permutations/README.md)
--   [ ] [[Medium]Subsets](https://leetcode.com/problems/subsets): [Solution]
+-   [x] [[Medium]Subsets](https://leetcode.com/problems/subsets): [Solution]
 -   [ ] [[Medium]Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution]
 
 ---
