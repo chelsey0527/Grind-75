@@ -17,7 +17,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [Binary](#binary) (1)
 -   [ ] [Heap](#heap) (4)
 -   [ ] [Trie](#trie) (2)
--   [ ] [Recursion](#recursion) (3)
+-   [x] [Recursion](#recursion) (3)
 -   [ ] [Matrix](#matrix) (1)
 
 ### Array
@@ -123,7 +123,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Medium]Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution](/BinarySearchTree/235-LowestCommonAncestor/README.md)
 -   [x] [[Medium]Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution](/BinarySearchTree/98-ValidateBinarySearchTree/README.md)
--   [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution]
+-   [ ] [[Medium]Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution]
 ---
 
 ### Hash Table
@@ -149,19 +149,19 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Trie
 
--   [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree): [Solution]
--   [ ] [Word Break](https://leetcode.com/problems/word-break): [Solution]
+-   [ ] [[Medium]Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree): [Solution]
+-   [ ] [[Medium]Word Break](https://leetcode.com/problems/word-break): [Solution]
 
 ---
 
 ### Recursion
 
 -   [x] [[Medium]Permutations](https://leetcode.com/problems/permutations): [Solution](/Recursion/46-Permutations/README.md)
--   [x] [[Medium]Subsets](https://leetcode.com/problems/subsets): [Solution]
--   [ ] [[Medium]Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution]
+-   [x] [[Medium]Subsets](https://leetcode.com/problems/subsets): [Solution](/Recursion/78-Subsets/README.md)
+-   [x] [[Medium]Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution](/Recursion/17-LetterCombination/README.md)
 
 ---
 
 ### Matrix
 
--   [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution]
+-   [ ] [[Medium]Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution]
