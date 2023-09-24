@@ -12,7 +12,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [ ] [Binary Search](#binary-search) (5)
 -   [ ] [Graph](#graph) (10)
 -   [x] [Dynamic Programming](#dynamic-programming) (5)
--   [ ] [Binary Search Tree](#binary-search-tree) (3)
+-   [x] [Binary Search Tree](#binary-search-tree) (3)
 -   [x] [Hash Table](#hash-table) (1)
 -   [x] [Binary](#binary) (1)
 -   [ ] [Heap](#heap) (4)
@@ -98,13 +98,13 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Easy]Flood Fill](https://leetcode.com/problems/flood-fill): [Solution](/Graph/733-FloodFill/README.md)
 -   [ ] [[Medium]01 Matrix](https://leetcode.com/problems/01-matrix): [Solution]
--   [ ] [Clone Graph](https://leetcode.com/problems/clone-graph): [Solution]
--   [ ] [Course Schedule](https://leetcode.com/problems/course-schedule): [Solution]
--   [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution]
--   [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges): [Solution]
--   [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge): [Solution]
--   [ ] [Word Search](https://leetcode.com/problems/word-search): [Solution]
--   [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees): [Solution]
+-   [ ] [[Medium]Clone Graph](https://leetcode.com/problems/clone-graph): [Solution]
+-   [ ] [[Medium]Course Schedule](https://leetcode.com/problems/course-schedule): [Solution]
+-   [ ] [[Medium]Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution]
+-   [ ] [[Medium]Rotting Oranges](https://leetcode.com/problems/rotting-oranges): [Solution]
+-   [ ] [[Medium]Accounts Merge](https://leetcode.com/problems/accounts-merge): [Solution]
+-   [ ] [[Medium]Word Search](https://leetcode.com/problems/word-search): [Solution]
+-   [ ] [[Medium]Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees): [Solution]
 -   [ ] [Word Ladder](https://leetcode.com/problems/word-ladder): [Solution]
 
 ---
@@ -123,7 +123,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 -   [x] [[Medium]Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution](/BinarySearchTree/235-LowestCommonAncestor/README.md)
 -   [x] [[Medium]Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution](/BinarySearchTree/98-ValidateBinarySearchTree/README.md)
--   [ ] [[Medium]Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution]
+-   [x] [[Medium]Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution](/BinarySearchTree/230-KthSmallestElementInaBST/README.md)
 ---
 
 ### Hash Table
