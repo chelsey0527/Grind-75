@@ -103,9 +103,9 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [x] [[Medium]Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution](/Graph/200-NumberOfIslands/README.md)
 -   [x] [[Medium]Rotting Oranges](https://leetcode.com/problems/rotting-oranges): [Solution](/Graph/994-RottingOranges/README.md)
 -   [ ] [[Medium]Accounts Merge](https://leetcode.com/problems/accounts-merge): [Solution]
--   [ ] [[Medium]Word Search](https://leetcode.com/problems/word-search): [Solution]
+-   [x] [[Medium]Word Search](https://leetcode.com/problems/word-search): [Solution](/Graph/79-WordSearch/README.md)
 -   [ ] [[Medium]Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees): [Solution]
--   [ ] [Word Ladder](https://leetcode.com/problems/word-ladder): [Solution]
+-   [ ] [[Hard]Word Ladder](https://leetcode.com/problems/word-ladder): [Solution]
 
 ---
 
