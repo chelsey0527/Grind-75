@@ -18,7 +18,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 -   [ ] [Heap](#heap) (4)
 -   [ ] [Trie](#trie) (2)
 -   [x] [Recursion](#recursion) (3)
--   [ ] [Matrix](#matrix) (1)
+-   [x] [Matrix](#matrix) (1)
 
 ### Array
 
@@ -164,4 +164,4 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Matrix
 
--   [ ] [[Medium]Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution]
+-   [x] [[Medium]Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution](/Matrix/54-SpiralMatrix/README.md)
