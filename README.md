@@ -149,7 +149,7 @@ Credit to: [@yuchia0221](https://github.com/yuchia0221/Grind-75)
 
 ### Trie
 
--   [ ] [[Medium]Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree): [Solution]
+-   [x] [[Medium]Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree): [Solution](/Trie/208-ImplementTrie/README.md)
 -   [ ] [[Medium]Word Break](https://leetcode.com/problems/word-break): [Solution]
 
 ---
